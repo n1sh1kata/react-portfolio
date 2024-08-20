@@ -1,0 +1,43 @@
+/* Style the scrollbar */
+::-webkit-scrollbar {
+    display: none;
+}
+
+/* Style the scrollbar track */
+::-webkit-scrollbar-track {
+    background-color: #f5f5f5;
+    border-radius: 10px;
+}
+
+/* Style the scrollbar thumb */
+::-webkit-scrollbar-thumb {
+    background-color: #042145;
+    border-radius: 10px;
+}
+
+/* Style the scrollbar thumb hover */
+/* ::-webkit-scrollbar-thumb:hover {
+    background-color: #0056b3;
+} */
+
+/* Style the scrollbar button */
+/* ::-webkit-scrollbar-button {
+    background-color: #007bff;
+    border-radius: 10px;
+} */
+
+/* Style the scrollbar button hover */
+/* ::-webkit-scrollbar-button:hover {
+    background-color: #0056b3;
+} */
+
+/* Style the scrollbar corner */
+::-webkit-scrollbar-corner {
+    background-color: #007bff;
+    border-radius: 10px;
+}
+
+/* Style the scrollbar corner hover */
+::-webkit-scrollbar-corner:hover {
+    background-color: #0056b3;
+}
